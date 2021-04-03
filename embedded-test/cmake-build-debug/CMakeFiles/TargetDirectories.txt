@@ -1,0 +1,3 @@
+D:/Projects/Clion/embedded-test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Projects/Clion/embedded-test/cmake-build-debug/CMakeFiles/embedded-test.elf.dir
+D:/Projects/Clion/embedded-test/cmake-build-debug/CMakeFiles/edit_cache.dir
